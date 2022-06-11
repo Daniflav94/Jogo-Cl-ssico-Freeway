@@ -11,11 +11,12 @@ Gif do jogo:
 ## Como executar:
 
 - Fazer o download ZIP;
+- Descompactar para uma pasta de sua escolha;
 - Instalar o http-server - No terminal, executar:
 
 npm install --global http-server
 
-- No cmd, ir para a pasta que está o projeto e executar: 
+- No terminal, ir para a pasta que está o projeto e executar: 
 
 http-server
 
